@@ -54,4 +54,10 @@ DAY 5
 	In team we saw what we had created till now, having a look some small changes that Marco had and having more careful with the Tests. After checks we made some changes in our database and started to create endpoints to call the questions in frontend part where we could have the answers. Fixing the seeds table was a little hard cause we faced errors like writing some code for mistake. In the end our UI idea was created till one point and we discuss with colleges to meet up during weekend and work for advancing in the project.
 
 		
+	###########################################################################################################################
+	
+
+DAY 6
+
+	This day was quite intense for me and my team cause we have worked and thought about our final week. In those 3 days off me and my team have neet up each other and discussing about errors and thinking the resolution. After discussing with team we thought we could start with a review of the code and database part like foreign key, ecc. Today me and team worked about creating the realtion between database and frontend, so in the end of the day we could have a result after the avdices we took during our weekend. It wasnt easy for  one of us we faced errors like network errors with hasura endpoint, installing axios like a library was an idea so we could call and insert data in database. In mutation we had kinda some errors like wrong path, wrong attributes and variables, wrong implement in frontend but this was managed in the end and had the result. Me in most of the time were to run and find the mutation to collect our answers and i was little creative in connection the database and frontend. In the end after all the time with error "network error" finaly found the connection and already tried in localhost and gitpod,  by changing the hasura engine to save the answers. 
 
